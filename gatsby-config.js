@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/SaraChicaDDotCom",
+  pathPrefix: "/SaraChicaD.github.io",
   siteMetadata: {
     title: 'Sara Inés Calderón',
   },
