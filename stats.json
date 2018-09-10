@@ -1,0 +1,98 @@
+{
+  "assetsByChunkName": {
+    "path---freelance": [
+      "path---freelance-a0e39f21c11f6a62c5ab.js",
+      "path---freelance-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-8fa64fa68ccb374de137.js",
+      "component---src-pages-index-js-8fa64fa68ccb374de137.js.map"
+    ],
+    "component---src-pages-medium-js": [
+      "component---src-pages-medium-js-bf6f0d922638824d3a0c.js",
+      "component---src-pages-medium-js-bf6f0d922638824d3a0c.js.map"
+    ],
+    "path---github": [
+      "path---github-a0e39f21c11f6a62c5ab.js",
+      "path---github-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-492b7054615492cef573.js",
+      "component---src-pages-contact-js-492b7054615492cef573.js.map"
+    ],
+    "component---src-pages-github-js": [
+      "component---src-pages-github-js-a4ff7790730f68ff3cae.js",
+      "component---src-pages-github-js-a4ff7790730f68ff3cae.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-ae0bcb28f956fa6d4079.js",
+      "component---src-layouts-index-js-ae0bcb28f956fa6d4079.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-f1eae11c00c72330960d.js",
+      "component---src-pages-404-js-f1eae11c00c72330960d.js.map"
+    ],
+    "component---src-pages-writing-and-speaking-js": [
+      "component---src-pages-writing-and-speaking-js-300430f26669c47af449.js",
+      "component---src-pages-writing-and-speaking-js-300430f26669c47af449.js.map"
+    ],
+    "commons": [
+      "commons-eb6ad47d8216a0921b8d.js",
+      "build-js-styles.css",
+      "commons-eb6ad47d8216a0921b8d.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---medium": [
+      "path---medium-a0e39f21c11f6a62c5ab.js",
+      "path---medium-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-women-who-code-js": [
+      "component---src-pages-women-who-code-js-264a2cbf949d68f5d47c.js",
+      "component---src-pages-women-who-code-js-264a2cbf949d68f5d47c.js.map"
+    ],
+    "path---women-who-code": [
+      "path---women-who-code-a0e39f21c11f6a62c5ab.js",
+      "path---women-who-code-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-freelance-js": [
+      "component---src-pages-freelance-js-e823d5b7f6a8b6ef13e6.js",
+      "component---src-pages-freelance-js-e823d5b7f6a8b6ef13e6.js.map"
+    ],
+    "app": [
+      "app-b8eab96e9c43821cdea3.js",
+      "app-b8eab96e9c43821cdea3.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-80b0a3fb94d47716e547.js",
+      "component---src-pages-about-js-80b0a3fb94d47716e547.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---writing-and-speaking": [
+      "path---writing-and-speaking-a0e39f21c11f6a62c5ab.js",
+      "path---writing-and-speaking-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
